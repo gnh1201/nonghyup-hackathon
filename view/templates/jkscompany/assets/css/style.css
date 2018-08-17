@@ -1,0 +1,5 @@
+html, body { padding: 0; margin: 0; }
+#container { margin: 20px; }
+input.text { width: 70px; }
+
+.area_buttons { margin: 20px 0; }
